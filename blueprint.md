@@ -30,7 +30,9 @@
 
 ## 광고 및 수익화
 
-### Google AdSense 통합
-- **자동 광고**: 사이트 전반에 Google AdSense 자동 광고 적용을 위한 스크립트 추가
+### Google AdSense 통합 및 정책 준수
+- **자동 광고**: 사이트 전반에 Google AdSense 자동 광고 적용을 위한 스크립트 추가 (`<head>` 영역)
 - **계정 인증**: `<meta name="google-adsense-account">` 태그를 통한 계정 소유권 인증
 - **ads.txt**: 광고 수익 최적화 및 투명성을 위한 `ads.txt` 파일 제공
+- **콘텐츠 보강 (정책 준수)**: '빈약한 콘텐츠(Thin Content)' 방지를 위해 메인 페이지에 주역에 대한 소개 및 서비스 이용 방법을 안내하는 텍스트 섹션 추가
+- **필수 페이지**: 신뢰성 향상 및 정책 준수를 위해 `privacy.html`(개인정보처리방침) 및 `terms.html`(이용약관) 문서 추가 및 푸터(Footer)에 링크 연결
