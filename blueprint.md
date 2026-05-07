@@ -27,3 +27,10 @@
 - **CSS**: 디자인 및 레이아웃
 - **JavaScript**: 괘 매칭 로직 및 동적 콘텐츠 표시
 - **Web Components**: 재사용 가능한 UI 요소를 캡슐화하여 코드의 모듈성 및 유지보수성 향상
+
+## 광고 및 수익화
+
+### Google AdSense 통합
+- **자동 광고**: 사이트 전반에 Google AdSense 자동 광고 적용을 위한 스크립트 추가
+- **계정 인증**: `<meta name="google-adsense-account">` 태그를 통한 계정 소유권 인증
+- **ads.txt**: 광고 수익 최적화 및 투명성을 위한 `ads.txt` 파일 제공
